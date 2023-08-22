@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS5iKBhe62Mbj3CavwfKcI3qEhN2U8KryfZnGyQXjb-h8A9ctiF-dDtHlDLptk-mK2s");
+    /* background-color: black; */
+    /* font-size: medium; */
+    /* display:inline-block; */
+    background-size: cover;
+    height: 500px;
+    width: 400px;
+}
+ul{
+background-color: rgb(86, 86, 151);
+width: 100px;
+}
+table,th,td{
+border: 1px solid rgb(95, 15, 15);
+border-collapse: collapse;
+}
